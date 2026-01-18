@@ -64,9 +64,7 @@ I enjoy solving real-world problems by combining **research-backed approaches** 
 
 ### 🔍 Zero-Shot Object Detection using GroundingDINO
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-Rajput/zero-shot-object-detection-grounding-dino/main/assets/demo.png" width="700"/>
-</p>
+
 
 **Key Contributions**
 - Implemented **zero-shot object detection** using natural language prompts  
@@ -79,11 +77,6 @@ I enjoy solving real-world problems by combining **research-backed approaches** 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajay-Rajput&theme=darkhub&no-frame=true&row=1"/>
-</p>
 
 ---
 
@@ -91,10 +84,7 @@ I enjoy solving real-world problems by combining **research-backed approaches** 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajay-Rajput&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Rajput&theme=tokyonight" height="170"/>
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Rajput&layout=compact&theme=tokyonight"/>
 </p>
 
