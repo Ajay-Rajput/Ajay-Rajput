@@ -1,49 +1,136 @@
+<h1 align="center">👋 Hi, I'm Ajay Rajput</h1>
 
-#👋 Hi, I'm Ajay Rajput
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+%26+LLMs;Deep+Learning+Practitioner;Actively+seeking+ML+Internships" />
+</p>
 
-🎯 Machine Learning Engineer | LLMs | Computer Vision | Deep Learning | IIT Mandi (Minor in DS & ML)
+<p align="center">
+  🎓 IIT Mandi — Minor in Data Science & Machine Learning
+</p>
 
-I am an innovative ML Engineer with strong foundations in Deep Learning, CNNs, LLMs, and Computer Vision.
-I specialize in building real-world AI systems such as zero-shot object detection, reinforcement learning models, and data-driven solutions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajayrajput31">
+    <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rajputajay5440@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ajay-Rajput&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
- ##🛠 Tech Stack
+## 🚀 Professional Summary
 
-**Languages & Libraries:**  
-Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+I am a **Machine Learning Engineer** with a strong academic foundation and hands-on experience in building **end-to-end AI systems**.  
+My interests lie at the intersection of **Computer Vision, Vision–Language Models, and Large Language Models**.
 
-**Deep Learning & AI:**  
-CNN, GAN, RNN, LSTM, Transformers, LLMs, Reinforcement Learning  
-
-**Tools:**  
-PyTorch, OpenCV, MySQL  
+I enjoy solving real-world problems by combining **research-backed approaches** with **clean, scalable implementations**.
 
 ---
 
-## 🚀 Featured Project
+## 🧠 Core Expertise
 
-### 🔍 Zero-Shot Object Detection using GroundingDINO  
-📌 Detects objects using natural language prompts  
-📌 Generates accurate bounding boxes with confidence scores  
-📌 Built using Transformers, PyTorch & OpenCV  
+- Deep Learning & Neural Networks (CNNs, RNNs, LSTMs)
+- Computer Vision & Vision–Language Models
+- Transformers, LLMs & Zero-Shot Learning
+- Reinforcement Learning
+- Data Analysis & Feature Engineering
+- Model Training, Evaluation & Optimization
 
-👉 Repo: https://github.com/Ajay-Rajput/zero-shot-object-detection-grounding-dino
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Data
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat&logo=scikit-learn)
+
+### 🤖 AI & Deep Learning
+- CNN • RNN • LSTM  
+- GANs • Transformers  
+- LLMs • Reinforcement Learning  
+
+### 🧰 Tools & Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+
+---
+
+## 🌟 Featured Project
+
+### 🔍 Zero-Shot Object Detection using GroundingDINO
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ajay-Rajput/zero-shot-object-detection-grounding-dino/main/assets/demo.png" width="700"/>
+</p>
+
+**Key Contributions**
+- Implemented **zero-shot object detection** using natural language prompts  
+- Integrated **Vision–Language Transformers**  
+- Generated accurate bounding boxes with confidence scores  
+- Built an inference pipeline using **PyTorch & OpenCV**
+
+🔗 **Repository**  
+👉 https://github.com/Ajay-Rajput/zero-shot-object-detection-grounding-dino
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ajay-Rajput&theme=darkhub&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajay-Rajput&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Rajput&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Rajput&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Rajput&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 🎓 Education
-• Minor in Data Science & Machine Learning – IIT Mandi  
-• B.Sc Mathematics – Vivekanand College, Kolhapur
+
+🎓 **Minor in Data Science & Machine Learning** — IIT Mandi  
+🎓 **B.Sc. Mathematics** — Vivekanand College, Kolhapur  
 
 ---
 
-## 📫 Connect with Me
-📧 Email: rajputajay5440@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ajayrajput31  
-💻 GitHub: https://github.com/Ajay-Rajput
+## 🎯 Career Goals
 
-<!---
-Ajay-Rajput/Ajay-Rajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Secure a **Machine Learning Internship / Research Role**
+- Work on **cutting-edge AI & ML problems**
+- Contribute to **open-source ML projects**
+- Grow as an AI engineer with strong research foundations
+
+---
+
+## 📬 Contact
+
+📧 **Email:** rajputajay5440@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ajayrajput31  
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
