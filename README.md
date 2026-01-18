@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ajay Rajput</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+%26+LLMs;Deep+Learning+Practitioner;Actively+seeking+ML+Internships" />
-</p>
+
 
 <p align="center">
   🎓 IIT Mandi — Minor in Data Science & Machine Learning
